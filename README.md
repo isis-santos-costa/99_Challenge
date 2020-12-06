@@ -59,7 +59,7 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 20
       <li> Month </li>
       <li> Week in the month </li>
     </ul>
-  <li> Feature engineering: coordinates into neighborhoods (reverse geocoding) </li>
+  <li> Feature engineering: 📍coordinates into 🗺️neighborhoods (reverse geocoding) </li>
   <li> Nᴇxᴛ: EDA </li>
 </ul>
 </p>
