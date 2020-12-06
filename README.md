@@ -1,7 +1,7 @@
 # 99_Challenge
 Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 2020
 
-## Link to Notebooks, ordered as the data prep flow
+## Link to Notebooks, ordered per the data prep flow
 
 <ol>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataExtraction.ipynb">Data Extraction</a></li>
