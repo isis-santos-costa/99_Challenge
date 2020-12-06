@@ -51,7 +51,7 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 20
 </ul>
 </p>
 
-<p id="#Notebook_04"><b> Notebook 4: Data Transformation, part 3 </b>
+<p id="#Notebook_04"><b> Notebook 4: DATA TRANSFORMATION, part 3 </b>
 <ul>
   <li> Resuming: retrieving the DFs </li>
   <li> Feature engineering: datetime 📅 (cont'd) [ Adding further new features for better analysis ] </li>
