@@ -90,14 +90,38 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 20
 <p id="#Notebook_05"><b> Notebook 5: DATA TRANSFORMATION, part 3 </b>
 <ul>
   <li> Resuming: retrieving the DFs </li>
-  <li> Creating the features 'coordinates'</li>
-  <li> Feature engineering: 📍coordinates into 🗺️neighborhoods (reverse geocoding) </li>
+  <li> Combining the tables: outer join 🔗
     <ul>
-      <li> Preparing for heavy processing: autotime + tqdm (progress bar) </li>
-      <li> Importing: Geopandas • Geopy (Nominatim+RateLimiter) • PyPlot • Plotly_express • TQDM </li>
+      <li> Listing information added when orders get converted: trips_features </li>
+      <li> Adding trips_features to the table of all orders </li>
+      <li> 🗃️ Reordering the columns of the new DF df_orders_tF (𝘵ransformed, 𝘍inal) </li>
+    </ul></li>
+  <li> Feature engineering: 📍coordinates into 🗺️neighborhoods (reverse geocoding)
+    <ul>
+      <li> Preparing for heavy processing:
+        <ul>
+          <li> Exporting the dataframe as transformed so far 📤 </li>
+          <li> Autotime + tqdm (progress bar) </li>
+      </ul></li>
+      <li> Importing: Geopandas • Geopy (Nominatim+RateLimiter) • PyPlot • Plotly_express </li>
       <li> Constructing Geocoder </li>
-      <li> Reverse geocoding </li>
-    </ul>
+      <li> Reverse geocoding 
+        <ul>
+          <li> Pilot test ✔️ </li>
+          <li> Full scale 📈: 1<sup>st</sup> trial with Nominatim, by list ❌ </li>
+          <li> Full scale 📈: n<sup>th</sup> trial with Nominatim, by list ❌ </li>
+          <li> ( Resuming after Kernel shut down • Retrieving data: nice it'd been saved! 😅 ) </li>
+          <li> Full scale 📈 Nominatim [ try / except ] ❌ </li>
+          <li> Full scale 📈 Nominatim [ try / except ] querying item by item ✔️ (kinda... 90 days!) </li>
+          <li> Full scale 📈 Nominatim [ numba / njit / numpy vectorize ] ✔️ (kinda: not fast enough) </li>
+          <li> Full scale 📈 Taking Einstein's advice
+            <ul>
+              <li> « As simple as possible... </li>
+              <li> ... but not simpler » </li>
+              <li> Defining a function for a « good enough » location of neighborhood </li>
+          </ul></li>
+        </ul></li>
+    </ul></li>
   <li> Exporting results for retrieval </li>
   <li> Nᴇxᴛ: EDA </li>
 </ul>
