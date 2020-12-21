@@ -60,7 +60,7 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 20
     </ul>
   <li> Treating missing data </li>
   <li> Exporting results for retrieval </li>
-  <li> Continues as: Transformation, part 3 (Final!) (lat, long) ➔ neighborhoods </li>
+  <li> Continues as Data Transformation, part 2 (addendum) </li>
 </ul>
 </p>
 
@@ -83,7 +83,7 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 20
     </ul>
     </li>
   <li> Exporting results for retrieval </li>
-  <li> Nᴇxᴛ: EDA </li>
+  <li> Continues as Transformation, part 3 (Final!) (lat, long) ➔ neighborhoods </li>
 </ul>
 </p>
 
