@@ -108,7 +108,7 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 20
       <li> Reverse geocoding 
         <ul>
           <li> Pilot test ✔️ </li>
-          <li> Full scale 📈: 1<sup>st</sup> trial with Nominatim, by list ❌
+          <li> Full scale 📈, with Nominatim:
             <ul>
               <li> 1<sup>st</sup> trial, by list ❌ </li>
               <li> n<sup>th</sup> trial, by list ❌ </li>
