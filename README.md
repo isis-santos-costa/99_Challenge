@@ -108,16 +108,19 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 20
       <li> Reverse geocoding 
         <ul>
           <li> Pilot test ✔️ </li>
-          <li> Full scale 📈: 1<sup>st</sup> trial with Nominatim, by list ❌ </li>
-          <li> Full scale 📈: n<sup>th</sup> trial with Nominatim, by list ❌ </li>
-          <li> ( Resuming after Kernel shut down • Retrieving data: nice it'd been saved! 😅 ) </li>
-          <li> Full scale 📈 Nominatim [ try / except ] ❌ </li>
-          <li> Full scale 📈 Nominatim [ try / except ] querying item by item ✔️ (kinda... 90 days!) </li>
-          <li> Full scale 📈 Nominatim [ numba / njit / numpy vectorize ] ✔️ (kinda: not fast enough) </li>
-          <li> Full scale 📈 Taking Einstein's advice
+          <li> Full scale 📈: 1<sup>st</sup> trial with Nominatim, by list ❌
             <ul>
-              <li> « As simple as possible... </li>
-              <li> ... but not simpler » </li>
+              <li> 1<sup>st</sup> trial, by list ❌ </li>
+              <li> n<sup>th</sup> trial, by list ❌ </li>
+              <li> ( Resuming after Kernel shut down • Retrieving data: nice it'd been saved! 😅 ) </li>
+              <li> [ try / except ] ❌ </li>
+              <li> [ try / except ] querying item by item ✔️ (kinda... 90 days!) </li>
+              <li> [ numba / njit / numpy vectorize ] ✔️ (kinda: not fast enough) </li>
+          </ul></li>
+          <li> Full scale 📈, taking Einstein's advice:
+            <ul>
+              <li> « <i>As simple as possible</i>... </li>
+              <li> ... <i>but not simpler</i> » </li>
               <li> Defining a function for a « good enough » location of neighborhood </li>
           </ul></li>
         </ul></li>
