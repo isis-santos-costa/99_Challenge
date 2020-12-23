@@ -8,7 +8,8 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 20
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataTransformation.ipynb">Data Transformation</a></li>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataTransformation2.ipynb">Data Transformation, part 2</a></li>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataTransformation3.ipynb">Data Transformation, part 2 (addendum)</a></li>
-  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataTransformation3F.ipynb">Data Transformation, part 3 (soon!)</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataTransformation3F.ipynb">Data Transformation, part 3</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__EDA.ipynb">EDA (soon!)</a></li>
   <!-- <li><a href="#Notebook_01">EDA</a></li> -->
  </ol>
 
@@ -121,11 +122,24 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 20
             <ul>
               <li> « <i>As simple as possible</i>... </li>
               <li> ... <i>but not simpler</i> » </li>
+              <li> Geometrical approach: using points and polynoms to define each borough </li>
+              <li> Getting boroughs coordinates from Google Maps </li>
               <li> Defining a function for a « good enough » location of neighborhood </li>
+              <li> Reverse Geocoding: the light way ✔️✔️✔️ </li>
+              <li> Getting coordinates of Manhattan regions from Google Maps </li>
+              <li> Defining a « good enough » function to locate Manhattan regions </li>
+              <li> (Further) Reverse Geocoding: Manhattan regions ✔️✔️✔️ </li>
           </ul></li>
-        </ul></li>
     </ul></li>
+  </ul></li>
+ <li> Lessons learned </li>
+ <li> Preparing for the future: Creating aggregated data tables
+   <ul>
+     <li> Daily data </li>
+     <li> Data by passenger </li>
+   </ul></li>
   <li> Exporting results for retrieval </li>
   <li> Nᴇxᴛ: EDA </li>
+</ul></li>
 </ul>
 </p>
