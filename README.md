@@ -10,7 +10,7 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 20
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataTransformation2.ipynb">Data Transformation, part 2</a></li>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataTransformation3.ipynb">Data Transformation, part 2 (addendum)</a></li>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataTransformation3F.ipynb">Data Transformation, part 3</a></li>
-  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__EDA.ipynb">EDA (soon!)</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__EDA.ipynb">EDA</a></li>
   <!-- <li><a href="#Notebook_01">EDA</a></li> -->
  </ol>
 
