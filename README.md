@@ -1,5 +1,6 @@
 # 99_Challenge
-Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 2020
+Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, 2020 &nbsp;
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IsisSantosCosta/99_Challenge/main)
 
 ## Link to Notebooks, ordered per the data prep flow
 
