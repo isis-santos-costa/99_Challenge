@@ -1,5 +1,5 @@
 # 99_Challenge
-Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, Nov 2020 - Jan 2021 &nbsp;
+Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa • Nov 2020 - Jan 2021 &nbsp;
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IsisSantosCosta/99_Challenge/main)
 
 ## Link to Notebooks, ordered per the data prep flow
