@@ -2,7 +2,7 @@
 Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, Nov 2020 - Jan 2021 &nbsp;
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IsisSantosCosta/99_Challenge/main)
 
-## Link to Notebooks, ordered per the data prep flow
+## Link to Notebooks, ordered as per the data prep flow
 
 <ol>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataExtraction.ipynb">Data Extraction</a></li>
@@ -11,6 +11,12 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, No
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataTransformation3.ipynb">Data Transformation, part 2 (addendum)</a></li>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__DataTransformation3F.ipynb">Data Transformation, part 3</a></li>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__EDA.ipynb">EDA</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Modeling__TimeSeriesAnalysis_Forecasting.ipynb">Mᴏᴅᴇʟɪɴɢ: Time Series Analysis • Forecasting (wip)</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Modeling__ML_Machine_Learning.ipynb">Mᴏᴅᴇʟɪɴɢ: Machine Learning (soon!)</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_CEO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ 🎯 CEO 🎯</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_CFO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ &nbsp;💲 &nbsp;CFO &nbsp;💲</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_COO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ 🎮 COO 🎮</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__AggregateData.ipynb">Pʀᴇᴘᴀʀɪɴɢ ғᴏʀ ᴛʜᴇ ғᴜᴛᴜʀᴇ: Aggregate Data</a></li>
   <!-- <li><a href="#Notebook_01">EDA</a></li> -->
  </ol>
 
