@@ -140,7 +140,7 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, No
     </ul></li>
   </ul></li>
  <li> Lessons learned </li>
- <li> Preparing for the future: Creating aggregated data tables
+ <li> Preparing for the future: Creating aggregate data tables
    <ul>
      <li> Daily data </li>
      <li> Data by passenger </li>
