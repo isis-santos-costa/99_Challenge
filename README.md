@@ -1,6 +1,6 @@
 # 99_Challenge
 Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, Nov 2020 - Jan 2021 &nbsp;
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IsisSantosCosta/99_Challenge/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IsisSantosCosta/99_Challenge/main) <br>
 
 ## Link to Notebooks, ordered as per the data prep flow
 
@@ -151,7 +151,7 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, No
 </ul>
 </p>
 
-<p id="#Notebook_06"><b> Notebook 6: EDA • Exᴘʟᴏʀᴀᴛᴏʀʏ Dᴀᴛᴀ Aɴᴀʟʏsɪs </b>
+<p id="#Notebook_06"><b> Notebook 6: EDA • EXPLORATORY DATA ANALYSIS </b>
 <ul>
   <li> Resuming: retrieving the DF, final transformed </li>
     <ul>
