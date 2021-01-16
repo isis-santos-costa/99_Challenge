@@ -150,3 +150,60 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, No
 </ul></li>
 </ul>
 </p>
+
+<p id="#Notebook_06"><b> Notebook 6: EDA • Exᴘʟᴏʀᴀᴛᴏʀʏ Dᴀᴛᴀ Aɴᴀʟʏsɪs </b>
+<ul>
+  <li> Resuming: retrieving the DF, final transformed </li>
+    <ul>
+      <li> Data by order </li>
+      <li> Daily data </li>
+      <li> Data by passenger </li>
+    </ul></li>
+  <li> Exᴘʟᴏʀᴀᴛᴏʀʏ Dᴀᴛᴀ Aɴᴀʟʏsɪs • Organizing features into classes
+    <ul>
+      <li> Features List • Data by order </li>
+      <li> Features List • Daily data </li>
+      <li> Features List • Data by passenger </li>
+      <li> Features classes • Data by order </li>
+      <li> Features classes • Daily data </li>
+      <li> Features classes • Data by passenger </li>
+      <li> Features classes • Data by order </li>
+    </ul></li>
+  <li> Exᴘʟᴏʀᴀᴛᴏʀʏ Dᴀᴛᴀ Aɴᴀʟʏsɪs • Importing matplotlib </li>
+  <li> Exᴘʟᴏʀᴀᴛᴏʀʏ Dᴀᴛᴀ Aɴᴀʟʏsɪs • Raw data (by order) ‖ Correlations </li>
+    <ul>
+      <li> Predictor x Predictor: Trip duration vs. distance </li>
+      <li> Predictor x Predictor: Dropoff latitude vs. Pickup latitude </li>
+      <li> Predictor x Predictor: Dropoff longitude vs. Pickup longitude </li>
+      <li> Predictor x Predictor: Dropoff datetime vs. Pickup datetime </li>
+      <li> Predictor x Predictor: Speed vs. Pickup hour </li>
+      <li> Target x Predictor: tip_amount (Hᴀᴘᴘɪɴᴇss) vs. Pickup datetime </li>
+      <li> Target x Predictor: total_amount (Rᴇᴠᴇɴᴜᴇ) vs. Pickup datetime </li>
+      <li> Target x Predictor: tip_amount (Hᴀᴘᴘɪɴᴇss) vs. Trip duration </li>
+      <li> Target x Predictor: total_amount (Rᴇᴠᴇɴᴜᴇ) vs. Trip duration </li>
+      <li> Target x Predictor: tip_amount (Hᴀᴘᴘɪɴᴇss) vs. Trip length </li>
+      <li> Target x Predictor: total_amount (Rᴇᴠᴇɴᴜᴇ) vs. Trip length </li>
+    </ul></li>
+  <li> Exᴘʟᴏʀᴀᴛᴏʀʏ Dᴀᴛᴀ Aɴᴀʟʏsɪs • Aggregations: frequency distributions </li>
+    <ul>
+      <li> Tʀɪᴘs: Frequency distribution by month (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by week of the month (%) [normalized] </li>
+      <li> Tʀɪᴘs: Frequency distribution by day of week (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by pickup hour (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by pickup time of the day (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by pickup time of the day (% hourly demand) </li>
+      <li> Tʀɪᴘs: Frequency distribution by trajectory duration (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by trajectory length (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by pickup borough (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by dropoff borough (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by rate type (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by payment type (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by tip amount (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by total amount (%) </li>
+      <li> Tʀɪᴘs: Frequency distribution by average speed, mph (%) </li>
+    </ul></li>
+  <li> Exporting results for retrieval </li>
+  <li> Nᴇxᴛ: EDA </li>
+</ul></li>
+</ul>
+</p>
