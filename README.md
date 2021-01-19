@@ -203,7 +203,7 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, No
       <li> Tʀɪᴘs: Frequency distribution by average speed, mph (%) </li>
     </ul></li>
   <li> Exporting results for retrieval </li>
-  <li> Nᴇxᴛ: EDA </li>
+  <li> Nᴇxᴛ: Mᴏᴅᴇʟɪɴɢ: Time Series Analysis • Forecasting </li>
 </ul></li>
 </ul>
 </p>
