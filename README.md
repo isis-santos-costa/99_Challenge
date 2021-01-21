@@ -207,3 +207,35 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, No
 </ul></li>
 </ul>
 </p>
+
+<p id="#Notebook_09"><b> Notebook 9: Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ CEO  ‖  Mar-May 2014 Operations </b>
+  <ul>
+    <li>Cᴏɴᴄᴇᴘᴛᴜᴀʟ Fʀᴀᴍᴇᴡᴏʀᴋ • Vɪsɪᴏɴᴀʀʏ</li>
+    <li>Dʀɪᴠɪɴɢ Qᴜᴇsᴛɪᴏɴs</li>
+    <li>Hɪɢʜʟɪɢʜᴛs</li>
+    <ul>
+      <li>PROFIT 📈: REVENUE PROFILE</li>
+      <li>PEOPLE 👥: PASSENGERS' ROUTINE</li>
+    </ul>
+    <li>Sᴜᴘᴘᴏʀᴛɪɴɢ Dᴀᴛᴀ: BUSINESS SUSTAINABILITY • PROFIT 📈</li>
+    <ul>
+      <li>CWGR: Compound Weekly Growth Rate</li>
+      <li>WEEKLY PROFILE</li>
+    </ul>
+    <li>Sᴜᴘᴘᴏʀᴛɪɴɢ Dᴀᴛᴀ: BUSINESS SUSTAINABILITY • PEOPLE 👥</li>
+    <ul>
+      <li>% TRIPS BY DURATION ⏲️</li>
+      <li>% TRIPS BY DISTANCE</li>
+      <li>% TRIPS BY TIME OF THE DAY 🌃</li>
+    </ul>
+    <li>Sᴜᴘᴘᴏʀᴛɪɴɢ Dᴀᴛᴀ: BUSINESS SUSTAINABILITY • PLANET 🌎</li>
+    <ul>
+      <li>SOON!</li>
+    </ul>
+    <li>See also:</li>
+    <ul>
+      <li>Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ CFO</li>
+      <li>Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ COO</li>
+    </ul>
+  <ul>
+    </p>
