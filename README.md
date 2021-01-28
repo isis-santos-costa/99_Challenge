@@ -2,6 +2,14 @@
 Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, Nov 2020 - Jan 2021 &nbsp;
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IsisSantosCosta/99_Challenge/main) <br>
 
+## Key results
+
+<ul>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_CEO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ 🎯 CEO 🎯</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_CFO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ &nbsp;💲 &nbsp;CFO &nbsp;💲 (soon!)</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_COO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ 🎮 COO 🎮 (soon!)</a></li>
+ </ul>
+
 ## Link to Notebooks, ordered as per the data prep flow
 
 <ol>
@@ -14,10 +22,9 @@ Technical Challenge 99 Data • New York City taxicabs • Isis Santos Costa, No
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Modeling__Time_Series_Analysis_Forecasting.ipynb">Mᴏᴅᴇʟɪɴɢ: Time Series Analysis • Forecasting (wip)</a></li>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Modeling__ML_Machine_Learning.ipynb">Mᴏᴅᴇʟɪɴɢ: Machine Learning (soon!)</a></li>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_CEO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ 🎯 CEO 🎯</a></li>
-  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_CFO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ &nbsp;💲 &nbsp;CFO &nbsp;💲</a></li>
-  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_COO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ 🎮 COO 🎮</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_CFO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ &nbsp;💲 &nbsp;CFO &nbsp;💲 (soon!)</a></li>
+  <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Report_for_the_COO.ipynb">Rᴇᴘᴏʀᴛ ғᴏʀ ᴛʜᴇ 🎮 COO 🎮 (soon!)</a></li>
   <li><a href="https://github.com/IsisSantosCosta/99_Challenge/blob/main/99__Aggregate_Data.ipynb">Pʀᴇᴘᴀʀɪɴɢ ғᴏʀ ᴛʜᴇ ғᴜᴛᴜʀᴇ: Aggregate Data</a></li>
-  <!-- <li><a href="#Notebook_01">EDA</a></li> -->
  </ol>
 
 <h2> Notebooks contents </h2>
