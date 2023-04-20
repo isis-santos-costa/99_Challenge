@@ -2,7 +2,6 @@
 [![pull requests](https://img.shields.io/github/issues-pr-closed/isis-santos-costa/99_Challenge?color=brightgreen)](https://github.com/isis-santos-costa/99_Challenge/pulls?q=is%3Apr)
 [![files](https://img.shields.io/github/directory-file-count/isis-santos-costa/99_Challenge)](https://github.com/isis-santos-costa/99_Challenge/)
 [![lines of code](https://img.shields.io/tokei/lines/github/isis-santos-costa/99_Challenge?color=purple)](https://github.com/isis-santos-costa/99_Challenge/)
-<!-- [![contributors](https://img.shields.io/github/contributors/isis-santos-costa/99_Challenge?color=lightgrey)](https://www.linkedin.com/in/isis-santos-costa/) -->
 [![commit activity](https://img.shields.io/github/commit-activity/m/isis-santos-costa/99_Challenge)](https://github.com/isis-santos-costa/99_Challenge/)
 [![Product Data | B2B SaaS | PLG](https://img.shields.io/badge/product%20data%20%7C%20b2b%20saas%20%7C%20plg-%E2%98%95-purple)](https://www.linkedin.com/in/isis-santos-costa/)   
 
